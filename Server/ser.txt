@@ -1,0 +1,2 @@
+mongosh "mongodb+srv://cluster0.5gpzk.mongodb.net/myFirstDatabase" --username Ajay2589
+mongodb+srv://Ajay2589:<password>@cluster0.5gpzk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
